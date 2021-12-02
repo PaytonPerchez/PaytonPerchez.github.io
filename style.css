@@ -2,11 +2,25 @@ p, li {
   color: lightblue;
 }
 
+table {
+  margin: auto;
+}
+
+ul, ol {
+  display: inline-block;
+  text-align: left;
+}
+
+td {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .header {
   color: lightgreen;
 }
 
-div, h1 {
+h1, div {
   text-align: center;
   font-family: Arial;
 }
