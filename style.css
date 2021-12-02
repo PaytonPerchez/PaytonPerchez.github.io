@@ -1,3 +1,25 @@
-p {
-  color: green;
+p, li {
+  color: lightblue;
 }
+
+.header {
+  color: lightgreen;
+}
+
+div, h1 {
+  text-align: center;
+  font-family: Arial;
+}
+
+body {
+  background: linear-gradient(0deg, #35577D, #141E30);
+}
+
+#app-link p {
+  color: gold;
+}
+
+/*
+20A648, 23BA51
+35577D, 141E30
+*/
